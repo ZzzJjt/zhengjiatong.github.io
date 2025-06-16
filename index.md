@@ -4,12 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a M.Eng student at Shenyang Institute of Automation, University of Chinese Academy of Science.
+Now, I am a M.S student at Shenyang Institute of Automation, University of Chinese Academy of Science. I am a Ph.D. applicant.
 
+## Education Background:
+  - M.S. in Computer Science, UCAS,Beijing,China,2023–2026
+  - B.E. in Automation, Harbin Engineering University, 2019–2023
 ## Research Interests
 
 - **Large Lange Model:** Control Engineering, Code Generation, Image Process
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
+## Awards and Thesis
 
 ## News
 
