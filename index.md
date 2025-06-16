@@ -8,7 +8,7 @@ I am a M.Eng student at Shenyang Institute of Automation, University of Chinese 
 
 ## Research Interests
 
-- **Large Lange Model:** control engineering, code generation, image process
+- **Large Lange Model:** Control Engineering, Code Generation, Image Process
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
