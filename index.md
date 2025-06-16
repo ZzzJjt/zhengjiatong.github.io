@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a M.S. student at Shenyang Institute of Automation, University of Chinese Academy of Science.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+- **Large Lange Model:** control engineering, code generation, image process
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
