@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a M.S. student at Shenyang Institute of Automation, University of Chinese Academy of Science.
+I am a M.Eng student at Shenyang Institute of Automation, University of Chinese Academy of Science.
 
 ## Research Interests
 
