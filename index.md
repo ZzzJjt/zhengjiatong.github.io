@@ -2,76 +2,39 @@
 layout: homepage
 ---
 
- HEAD
 <img src="assets/img/avatar.jpg" alt="Jiatong Zheng" width="200" style="border-radius: 50%; margin-bottom: 10px;" />
 
 ## About Me
 
 Now, I am a M.S student at Shenyang Institute of Automation, University of Chinese Academy of Science. I am a Ph.D. applicant.
 
-# About Me
-
-Hi, I’m **Zheng Jiatong**, a master's student at the Shenyang Institute of Automation...
-
 ## Education
 
-- **M.S.** in Computer Science, Shenyang Institute of Automation,University of Chinese Academy of Science , 2023–2026
+- **M.S.** in Computer Science, Shenyang Institute of Automation, UCAS, 2023–2026  
 - **B.E.** in Automation, Harbin Engineering University, 2019–2023
- 34d79ef (Add avatar image)
 
-## Education Background:
-  - M.S. in Computer Science, UCAS,Beijing,China,2023–2026
-  - B.E. in Automation, Harbin Engineering University, 2019–2023
 ## Major Courses
-- Introduction to Robot Engineering,
-Industrial robot, Analog electronic technology, Digital electronic technology,
-Automatic control theory, Automatic control element, Modern control theory,
-Microcomputer principle and interface technology, Robot dynamics, Robot
-structure design, Robot vision measurement and control, Modern sensor
-principle and application
+
+- Introduction to Robot Engineering  
+- Analog/Digital Electronics  
+- Automatic Control Theory  
+- Modern Sensors and Applications  
+- Robot Dynamics and Vision Control  
+
 ## Research Interests
 
- HEAD
-- **Large Lange Model:** Control Engineering, Code Generation, Image Process
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-## Awards and Thesis
-- National level:
-The First prize of the 16th National College Students Intelligent Car
-Competition in 2021 (the 10th place in China)
-First Prize of the 17th National College Students Intelligent Car Competition
-in 2022 (the 6th place in China)
-The first prize of the 11th National College Student Ocean Vehicle Design
-Competition in 2022
-The third prize of the 13th Beidou Cup National Youth Science and
-Technology Innovation Competition in 2022
-- State level:
-Gold Medal of Heilongjiang Internet + College Students Innovation and
-Entrepreneurship Competition in 2021
-2021 Silver Award of Heilongjiang Internet + College Students Innovation
-and Entrepreneurship Competition (Person in charge)
-2022 Gold Award of Heilongjiang Internet + College Students Innovation and
-Entrepreneurship Competition (Person in charge)
-First Prize of the 16th National College Students' Intelligent Car Competition
-in Northeast Division (third prize in Northeast Division)
-First prize of the 17th National College Students' Intelligent Car Competition
-in Northeast Division (fourth place in Northeast Division) (Person in charge)
-First Prize of 2021 National Mathematical Modeling Competition for College
-Students (Person in charge)
-
-
-- Generative AI for Industrial Control
-- Code Generation with LLMs
-- Intelligent Car
-- FPGA
+- **Large Language Models for Control Engineering**  
+- **Meta-learning, Incremental Learning**  
+- **Generative AI & Code Generation for Industrial Systems**
 
 ## Awards and Honors
 
-- National First Prize in the National College Student Intelligent Vehicle Competition（No.6）, 2022
-- Excellent Entrepreneurship and Innovation Navigator, 2022
-- National First Prize in the National College Student Intelligent Vehicle Competition（No.10）, 2021
- 34d79ef (Add avatar image)
+- 🏆 National First Prize, Intelligent Vehicle Competition (6th), 2022  
+- 🏆 National First Prize, Intelligent Vehicle Competition (10th), 2021  
+- 🏅 Gold Medal, Heilongjiang Internet+ Innovation, 2022  
+- 🥇 First Prize, National Mathematical Modeling Competition, 2021
 
 ## Contact
 
-- 📧 Email: zhengjiatong23@mails.ucas.ac.cn
-- 🌐 [GitHub](https://github.com/ZzzJjt) • [Scholar](https://scholar.google.com/) • [CV PDF](assets/files/cv.pdf)
+- 📧 Email: zhengjiatong23@mails.ucas.ac.cn  
+- 🌐 [GitHub](https://github.com/ZzzJjt) | [LinkedIn](https://www.linkedin.com/in/jiatong-zheng-9721aa208/) | [CV PDF](assets/files/curriculum_vitae.pdf)
