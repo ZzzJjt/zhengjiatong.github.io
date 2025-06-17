@@ -1,22 +1,22 @@
 # Basic Information 
 title: Jiatong Zheng
-position: M.s. Student
+description: "Ph.D. Applicant | Research in AI and Control"
+url: "https://zhengjiatong.github.io"
 affiliation: Shenyang Institute of Automation, University of Chinese Academy of Science
 email: zhengjiatong23@mails.ucas.ac.cn
+github_username: "ZzzJjt"
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Large Language Model
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+
 cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/ZzzJjt?tab=repositories
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+linkedin: https://www.linkedin.com/in/jiatong-zheng-9721aa208/
+twitter: https://x.com/jattonzheng
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
