@@ -37,4 +37,4 @@ Now, I am a M.S student at Shenyang Institute of Automation, University of Chine
 ## Contact
 
 - 📧 Email: zhengjiatong23@mails.ucas.ac.cn  
-- 🌐 [GitHub](https://github.com/ZzzJjt) | [LinkedIn](https://www.linkedin.com/in/jiatong-zheng-9721aa208/) | [CV PDF](assets/files/curriculum_vitae.pdf)
+- 🌐 [GitHub](https://github.com/ZzzJjt) | [LinkedIn](https://www.linkedin.com/in/jiatong-zheng-9721aa208/) | [CV PDF](assets/files/CV.pdf)
