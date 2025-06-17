@@ -10,7 +10,7 @@ Now, I am a M.S student at Shenyang Institute of Automation, University of Chine
 
 ## Education
 
-- **M.S.** in Computer Science, Shenyang Institute of Automation, UCAS, 2023–2026  
+- **M.S.** in Computer Science, Shenyang Institute of Automation, Uiversity of Chinese Acadamy of Science, 2023–2026  
 - **B.E.** in Automation, Harbin Engineering University, 2019–2023
 
 ## Major Courses
