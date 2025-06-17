@@ -2,11 +2,22 @@
 layout: homepage
 ---
 
+ HEAD
 <img src="assets/img/avatar.jpg" alt="Jiatong Zheng" width="200" style="border-radius: 50%; margin-bottom: 10px;" />
 
 ## About Me
 
 Now, I am a M.S student at Shenyang Institute of Automation, University of Chinese Academy of Science. I am a Ph.D. applicant.
+
+# About Me
+
+Hi, I’m **Zheng Jiatong**, a master's student at the Shenyang Institute of Automation...
+
+## Education
+
+- **M.S.** in Computer Science, Shenyang Institute of Automation,University of Chinese Academy of Science , 2023–2026
+- **B.E.** in Automation, Harbin Engineering University, 2019–2023
+ 34d79ef (Add avatar image)
 
 ## Education Background:
   - M.S. in Computer Science, UCAS,Beijing,China,2023–2026
@@ -20,6 +31,7 @@ structure design, Robot vision measurement and control, Modern sensor
 principle and application
 ## Research Interests
 
+ HEAD
 - **Large Lange Model:** Control Engineering, Code Generation, Image Process
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 ## Awards and Thesis
@@ -47,6 +59,19 @@ First Prize of 2021 National Mathematical Modeling Competition for College
 Students (Person in charge)
 
 
-{% include_relative _includes/publications.md %}
+- Generative AI for Industrial Control
+- Code Generation with LLMs
+- Intelligent Car
+- FPGA
 
-{% include_relative _includes/services.md %}
+## Awards and Honors
+
+- National First Prize in the National College Student Intelligent Vehicle Competition（No.6）, 2022
+- Excellent Entrepreneurship and Innovation Navigator, 2022
+- National First Prize in the National College Student Intelligent Vehicle Competition（No.10）, 2021
+ 34d79ef (Add avatar image)
+
+## Contact
+
+- 📧 Email: zhengjiatong23@mails.ucas.ac.cn
+- 🌐 [GitHub](https://github.com/ZzzJjt) • [Scholar](https://scholar.google.com/) • [CV PDF](assets/files/cv.pdf)
