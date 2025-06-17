@@ -3,6 +3,7 @@ layout: homepage
 ---
 
 <img src="assets/img/avatar.jpg" alt="Jiatong Zheng" width="200" style="border-radius: 50%; margin-bottom: 10px;" />
+
 ## About Me
 
 Now, I am a M.S student at Shenyang Institute of Automation, University of Chinese Academy of Science. I am a Ph.D. applicant.
