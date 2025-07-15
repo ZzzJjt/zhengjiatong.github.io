@@ -31,7 +31,7 @@ Now, I am a M.S student at Shenyang Institute of Automation, University of Chine
   📄 [OpenReview Link](https://openreview.net/forum?id=5uMaaqRpIu)
 
 - **ADAP: An Improved Evaluation Algorithm for Industrial Control Based on Large Language Models, Journal of Supercomputing**  
-  📑 [PDF Download](assets/files/Journal_of_Supercomputing.pdf)
+  📑 [PDF Download](assets/files/Journal of Supercomputing.pdf)
 
 - **A Novel Method of PLC Code Generation based on Large Language Models, 2025 6th International Conference on Computer Engineering and Application, ISBN: 979-8-3315-4330-3**  
   📑 [PDF Download](assets/files/EI+PLC+LLM+2025.pdf)
