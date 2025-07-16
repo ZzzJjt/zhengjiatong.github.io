@@ -30,6 +30,7 @@ Now, I am a M.S student at Shenyang Institute of Automation, University of Chine
 
 
 ## Thesis
+
 - **SAGE: A Framework for Semantic-Alignment-Guided Engineering of Prompts and Fine-Tuning in Industrial Control Tasks, AAAI 2026**  
   📄 [OpenReview Link](https://openreview.net/forum?id=5uMaaqRpIu)
 
@@ -38,6 +39,8 @@ Now, I am a M.S student at Shenyang Institute of Automation, University of Chine
 
 - **A Novel Method of PLC Code Generation based on Large Language Models, 2025 6th International Conference on Computer Engineering and Application, ISBN: 979-8-3315-4330-3**  
   📑 [PDF Download](assets/files/EI+PLC+LLM+2025.pdf)
+
+  
 ## Awards and Honors
 
 - 🏆 National First Prize, Intelligent Vehicle Competition (6th), 2022  
