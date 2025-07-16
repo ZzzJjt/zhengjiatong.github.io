@@ -26,6 +26,9 @@ Now, I am a M.S student at Shenyang Institute of Automation, University of Chine
 - **Large Language Models for Control Engineering**  
 - **Meta-learning, Incremental Learning**  
 - **Generative AI & Code Generation for Industrial Systems**
+
+
+
 ## Thesis
 - **SAGE: A Framework for Semantic-Alignment-Guided Engineering of Prompts and Fine-Tuning in Industrial Control Tasks, AAAI 2026**  
   📄 [OpenReview Link](https://openreview.net/forum?id=5uMaaqRpIu)
