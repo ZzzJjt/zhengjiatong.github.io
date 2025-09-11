@@ -31,8 +31,8 @@ Now, I am a M.S student at Shenyang Institute of Automation, University of Chine
 
 ## Thesis
 
-- **SAGE: A Framework for Semantic-Alignment-Guided Engineering of Prompts and Fine-Tuning in Industrial Control Tasks, AAAI 2026**  
-  📄 [OpenReview Link](https://openreview.net/forum?id=5uMaaqRpIu)
+- **SAGE: A Framework for Semantic-Alignment-Guided Engineering of Prompts and Fine-Tuning in Industrial Control Tasks, ICLR 2026**  
+  📄 [OpenReview Link](https://openreview.net/forum?id=MWu9EU6nkM&noteId=MWu9EU6nkM)
 
 - **ADAP: An Improved Evaluation Algorithm for Industrial Control Based on Large Language Models, Journal of Supercomputing**  
   📑 [PDF Download](assets/files/JournalofSupercomputing.pdf)
