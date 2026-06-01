@@ -13,6 +13,23 @@ header {
   margin-bottom: 2rem;
 }
 
+/*
+ * Avatar styling
+ *
+ * The portrait image at the top of the page is styled as a circle
+ * with a fixed size so it fits neatly with the heading text. A small
+ * margin below separates it from the name and tagline.
+ */
+.avatar {
+  display: block;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0 auto 1rem auto;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+}
+
 header h1 {
   margin-bottom: 0.3rem;
   font-size: 2rem;
